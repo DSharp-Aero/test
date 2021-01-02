@@ -1,0 +1,8 @@
+﻿  Aircraft.cpp
+C:\Users\xavie\source\repos\Thrust for Apogee\Thrust for Apogee\Aircraft.cpp(30,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\xavie\source\repos\Thrust for Apogee\Thrust for Apogee\Aircraft.cpp(37,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Thrust for Apogee.cpp
+C:\Users\xavie\source\repos\Thrust for Apogee\Thrust for Apogee\Thrust for Apogee.cpp(35,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\xavie\source\repos\Thrust for Apogee\Thrust for Apogee\Thrust for Apogee.cpp(51,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Thrust for Apogee.vcxproj -> C:\Users\xavie\source\repos\Thrust for Apogee\Debug\Thrust for Apogee.exe
